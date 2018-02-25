@@ -52,7 +52,7 @@ The next part will not provide English text as the PVPIN has only for Chinese's.
 * QQ: 4740281 (Gang Ma)
 * Mail: gangma@foxmail.com (Gang Ma)
 
-在此之前，你需要拥有一个PVPIN账号来编写插件，详细的规则请查看PVPIN内的相关帮助。+
+在此之前，你需要拥有一个PVPIN账号来编写插件，详细的规则请查看PVPIN内的相关帮助。
 
 一、获取服务端包。
 		这里有一个简单的整合包：[https://pan.baidu.com/s/1dENjTyL](https://pan.baidu.com/s/1dENjTyL)  。
@@ -73,7 +73,7 @@ The next part will not provide English text as the PVPIN has only for Chinese's.
 双击启动脚本start.bat(前提是你已经安装好了java8)，就可以看到启动消息了。
  ![消息](https://raw.githubusercontent.com/PVPIN/pvpin_js_rt/master/images/jar_2.png)
 
-同时会发现目录下又多了几个文件，其中最重要的就是 world目录。
+同时会发现目录下又多了几个文件，其中最重要的就是world目录。
 
 * world 目录：这样的目录有好几个，都是用world开头的，例如world，world_nether，world_the_end。这里就是存放游戏地图的目录。在游戏运行的时候，最好不要修改里面的文件，有可能会带来严重的错误。
 
