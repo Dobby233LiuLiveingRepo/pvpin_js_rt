@@ -63,11 +63,7 @@ The next part will not provide English text as the PVPIN has only for Chinese's.
 我们简要的解释一下压缩包里的这几个目录
 
 * plugins 目录：这里就是放插件的地方。这里已经放了一个NPC插件 citizens-2.0.21-SNAPSHOT，*PVPIN*的NPC功能直接调用了这个插件。
-* server.properties ：这是服务器的配置文件。你可以根据自己的需要修改，然后重启就可以生效。简要的说一下其中的几个配置：      
-    * pvp=true：玩家之间是否可以对战。
-    * difficulty=1：游戏难度，0是和平模式，1是容易，2是正常，3是困难。
-    * gamemode=0：游戏模式，0生存，1创造，2冒险。
-    * motd=A Minecraft Server：motd是每日消息（Message Of The Day）的英文缩写，就是玩家在服务器列表上看到的消息。
+* server.properties ：这是服务器的配置文件。你可以根据自己的需要修改，然后重启就可以生效。
 * start.bat  ：这是启动服务的脚本。
 
 双击启动脚本start.bat(前提是你已经安装好了java8)，就可以看到启动消息了。
