@@ -117,7 +117,7 @@ The next part will not provide English text as the PVPIN has only for Chinese's.
 ![](https://raw.githubusercontent.com/PVPIN/pvpin_js_rt/master/images/jar_9.png)
 
 #### 如果你要安装第二个插件，只需要下载插件的js文件，然后把js放进这个目录，然后重启服务器即可。不需要重新下载jar包，否则可能会覆盖。
-##至此，本文已经结束，尽情使用吧！
+## 至此，本文已经结束，尽情使用吧！
 ##  提示：PVPIN的js运行环境会不时更新，请关注网站的更新通知。 
 GPL v2 开源协议
 
@@ -129,10 +129,10 @@ GPL v2 开源协议
 
 This project uses GPL V2 open source protocol for production, please follow this agreement in the relevant operations!
 	
-If it is for commercial use, please declare copyright at the relevant location!
+If it is for commercial use, please declear copyright at the relevant location!
 
 &copy; 2017 PVPIN.com
 
-<br> thanks again for your reading!
+Thanks again for your reading!
 
 		
