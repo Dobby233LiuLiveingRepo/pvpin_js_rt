@@ -33,14 +33,17 @@ This is that RunTime's front-end source.
 <br>![结构](https://raw.githubusercontent.com/PVPIN/pvpin_js_rt/master/images/jar_0.jpeg)
 
 <br>这样做有以下几个好处：
-<br>* 更简单，JavaScript是一门比Java更简单的语言。学习更快，编写相同的功能，花费的时间也更短；
-<br>* javascript本身是一门性价比高的语言，值得一学。性＝用途广泛性（跨前后端与各种平台），价 ＝学习的代价（耗费时间与难易程度）
-<br>
+
+* 更简单，JavaScript是一门比Java更简单的语言。学习更快，编写相同的功能，花费的时间也更短；
+* javascript本身是一门性价比高的语言，值得一学。性＝用途广泛性（跨前后端与各种平台），价 ＝学习的代价（耗费时间与难易程度）
+
 
 <br>This has the following benefits:
-<br>* JavaScript is a more simple language than JAVA. Learn faster, write the same function, and take less time;
-<br>* dynamic, as a dynamic language, JavaScript can be modified and deployed in the server running code.
-<br>* JavaScript itself is a cost-effective language, it is worth learning. cost = use wide (across the front end and various platforms), price = the cost of learning (time and difficulty)
+
+
+* JavaScript is a more simple language than JAVA. Learn faster, write the same function, and take less time;
+* dynamic, as a dynamic language, JavaScript can be modified and deployed in the server running code.
+* JavaScript itself is a cost-effective language, it is worth learning. cost = use wide (across the front end and various platforms), price = the cost of learning (time and difficulty)
 
 #### <big>如何使用它?</big> <small>How to use it?</small>
 ##### Pay attention 
