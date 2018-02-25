@@ -16,7 +16,7 @@
 #### <big>这是什么？</big> <small>What's this?</small>
 <big>这是<i>[PVPIN](http://pvpin.com/)</i>，一个基于JavaScript实现编写JAVA语言用于“我的世界”/“Minecraft”中的插件的一个网站，中的运行环境时，也就是前端的源代码。</big> 
 
-<br />This is *"PVPIN"*,one Bukkit plugin wroter based on JavaScript implementation of JAVA 
+<br />This is *"PVPIN"*, one Bukkit plugin wroter based on JavaScript implementation of JAVA.
 This is that RunTime's front-end source.
 <br />
 
