@@ -1,32 +1,52 @@
-# [![封面](https://dn-coding-net-production-static.qbox.me/3113aa7b-291d-402e-819e-bebbf07e5ef3.png)](http://pvpin.com/)
- <br>
-__用拼积木的方式开发MInecraft插件__
+# [![封面](https://dn-coding-net-production-static.qbox.me/3113aa7b-291d-402e-819e-bebbf07e5ef3.png)](http://pvpin.com/) <br />__用拼积木的方式开发Minecraft插件__
+
+ 
+
+
  Develop Minecraft plugins by building blocks like play.
- <br>
+ 
+ 
+ 
+ 
 ### <big>介绍</big> <small>introduce</small>
- Pay attention to the English text in this Readme are not so well,because this is the Machine Translation.So,if you have any do not understand that I hope you can forgive me,and if you can help me to improvement the text in Engilish that I’d like to thank you first,please mail me “i@timewk.cn”.
- <br>
-####<big>这是什么？</big> <small>What is this?</small>
-<big>这是*[pvpin](http://pvpin.com/)*，一个基于Java script实现编写JAVA语言用于“我的世界”/“Minecraft”中的插件的一个网站，中的运行环境时，也就是前端的源代码。</big> 
-<br>This is *"PVPIN"*,one based on Java script implementation develop by JAVA of the Minecraft plugins in RunTime.That is the front-end source.
+ ### Pay attention 
+ The English's in this Readme are not so well, because this is translated by AIs. So, if you have any issue at that, I hope you can forgive me, and if you can, please help me to improvement translate so I’d like to thank you. Please [mail me at i@timewk.cn](i@timewk.cn) about that.
+ <br />
+ 
+#### <big>这是什么？</big> <small>What's this?</small>
+<big>这是*[pvpin](http://pvpin.com/)，一个基于JavaScript实现编写JAVA语言用于“我的世界”/“Minecraft”中的插件的一个网站，中的运行环境时，也就是前端的源代码。</big> 
+
+<br/>This is *"PVPIN"*,one based on Java script implementation develop by JAVA of the Minecraft plugins in RunTime.That is the front-end source.
+<br />
+
+~~forgive me please but narshon and scriptcraft are the real frontend~~
 <br>
-####<big>为什么可以使用javascript开发java版的Minecraft插件？</big> 
-####<small>Why we can use JavaScript to develop java version of the Minecraft plugins</small>
+
+#### <big>为什么可以使用javascript开发java版的Minecraft插件？</big> 
+#### <small>Why we can use JavaScript to develop java version of the Minecraft plugins</small>
+
 因为java运行环境中有一个javascript引擎，可以运行javascript代码。更重要的是，可以直接在javascript中调用java代码。这样，我们就可以用javascript来写“java”程序。
-<br>Because the Java runtime environment has a JavaScript engine, you can run the JavaScript code. More importantly, you can directly call the Java code in javascript. In this way, we can use JavaScript to write "Java" program.
+
+<br>Because the Java had a javascript engine project, so you can run the JavaScript code. More importantly, you can directly call the Java code in javascript. In this way, we can use JavaScript to write "Java" program.
+
 <br>![结构](https://raw.githubusercontent.com/PVPIN/pvpin_js_rt/master/images/jar_0.jpeg)
+
 <br>这样做有以下几个好处：
 <br>* 更简单，javascript是一门比java更简单的语言。学习更快，编写相同的功能，花费的时间也更短；
-<br>* javascript本身是一门性价比高的语言，值得一学。性 ＝用途广泛性（跨前后端与各种平台），价 ＝学习的代价（耗费时间与难易程度）
+<br>* javascript本身是一门性价比高的语言，值得一学。性＝用途广泛性（跨前后端与各种平台），价 ＝学习的代价（耗费时间与难易程度）
 <br>
+
 <br>This has the following benefits:
 <br>* JavaScript is a more simple language than JAVA. Learn faster, write the same function, and take less time;
 <br>* dynamic, as a dynamic language, JavaScript can be modified and deployed in the server running code.
 <br>* JavaScript itself is a cost-effective language, it is worth learning. cost = use wide (across the front end and various platforms), price = the cost of learning (time and difficulty)
-####<big>如何使用它?</big> <small>How to use it?</small>
-Pay attention to next text will not provide English text that because the *"PVPIN"* was not have English page,only simplified Chinese.Because the *“PVPIN”* is just for Chinese Minecraft Players to use,if you really want use it by English,please contact us we will communicate this thing.You can contact us by "QQ" or "Mail".But in the end we have a Copyright statement.(if you want to use this Runtime that please read it)
-QQ number :4740281 (Gang Ma)
-Mail :gangma@foxmail.com (Gang Ma)
+
+#### <big>如何使用它?</big> <small>How to use it?</small>
+##### Pay attention 
+The next part will not provide English text as the PVPIN has only for Chinese's. If you I'd like to use it, consult the webmaster:
+
+* QQ number :4740281 (Gang Ma)
+* Mail :gangma@foxmail.com (Gang Ma)
 
 在此之前，你需要拥有一个PVPIN账号来编写插件，详细的规则请查看PVPIN内的相关帮助。+
 
